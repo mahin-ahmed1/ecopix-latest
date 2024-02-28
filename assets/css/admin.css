@@ -1,0 +1,8 @@
+#input_header_menu_alignment label{
+
+    margin-right: 20px;
+}
+
+.control-section-kirki-default, .control-section-kirki-outer{
+    min-height:auto !important;
+}

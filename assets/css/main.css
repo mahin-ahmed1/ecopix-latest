@@ -1,0 +1,295 @@
+/*
+*
+* TABLE OF CONTENT
+*
+    1.Body
+    2. HEADER AREA
+    3. Blog Page Design
+    4. Single Post page
+    5. Author Page
+    6. Footer Area
+*/
+
+/* BODY START */
+
+*{
+    font-family: 'Jost', sans-serif;
+}
+
+body{
+    padding:0;
+    margin:0;
+    background:#FAFBFC !important;
+}
+
+.sidebar-area .wp-block-search__button{
+    background: #0C1465;
+    color: white;
+    font-family: jost;
+    padding: 10px 14px;
+}
+
+/** HEADER AREA START **/
+
+.site-header{
+    border-bottom: 1px solid #f1f1f1d9;
+    box-shadow: 0px 1px 10px #f1f1f196;
+}
+
+.header-area .logo-area a img{
+    width:130px;
+    height:auto;
+}
+
+.header-menu li {
+    display:inline-block;
+}
+.sub-menu{
+    text-align:left;
+}
+.sub-menu li a{
+    margin:0;
+}
+
+.header-menu .nav-link{
+    display:inline-block;
+    font-size: 16px;
+    margin:0 15px;
+}
+.logo-area .site-title a{
+    font-size:26px;
+}
+
+.header-area .menu-area {
+    height:50px;
+}
+
+.header-area .row{
+    min-height:80px !important;
+}
+
+header .menu-area .nav-container, ul{
+    width:100%;
+}
+
+
+
+/** BLOG PAGE DESIGN **/
+
+
+.entry-content > .entry-title{
+    height:82px;
+    line-height:1.5rem;
+}
+
+.entry-content .entry-title a{
+    font-weight: 600;
+    color: #070e45 !important;
+    font-size: 22px;
+    text-transform:capitalize;
+}
+
+.entry-header .post-thumbnail img{
+    height:200px;
+    width:100%;
+}
+
+article .entry-meta .dashicons{
+    font-size: 18px;
+    margin-top: 2px;
+    color: #fff;
+}
+
+a time{
+    color:white;
+}
+.posted-on, .byline{
+    text-align: center;
+    background: #050d27cf;
+    padding: 5px 0;
+    border-radius: 25px;
+    color: white;
+}
+.posted-on a,.author a{
+    text-decoration:none;
+    text-transform:uppercase;
+    padding-left:6px;
+    font-size:12px;
+    color:#fff !important;
+}
+
+.posted-on a time{
+    font-size:12px !important;
+}
+.dashicons, .dashicons-before:before {
+    font-family: dashicons !important;
+}
+
+.author a{
+    padding-left:3px;
+}
+
+.card .entry-content p{
+    height: 90px;
+    margin-bottom:5px;
+    color: #474747;
+}
+
+article .entry-meta .posted-on{
+    display:inline-block;
+    width:50%;
+}
+
+article .entry-meta .byline{
+    display:inline-block;
+    width:46%;
+    margin-left:4%;
+}
+
+article .entry-title a{
+    font-family: 'Jost', sans-serif;;
+    font-weight: 700;
+    color: #0c1465;
+}
+
+.post-thumbnail img{
+    object-fit:cover;
+}
+
+.sidebar-area .widget-area {
+    padding: 20px;
+    margin-top: 25px;
+    background: white;
+    border-radius: 6px;
+    box-shadow: rgb(255 255 255 / 2%) 0px 1px 3px 0px, rgb(108 98 98 / 15%) 0px 0px 0px 1px;
+}
+.sidebar-area .widget-area ul{
+    margin:0;
+    padding:0;
+    margin-left:15px;
+}
+
+.sidebar-area ol{
+    padding:0;
+    margin:0;
+    padding-left:15px;
+}
+
+.sidebar-area .widget_block{
+    overflow:hidden;
+}
+
+
+.card{
+    border:1px solid white !important;
+}
+.sidebar-area .widget-area form label{
+    font-weight: 700;
+    font-size: 24px;
+    color:#0c1465;
+    margin-bottom:15px;
+}
+
+.sidebar-area .widget-area .wp-block-heading{
+    font-weight: 700;
+    font-size: 24px;
+    color:#0c1465;
+    margin-bottom:15px;
+}
+.sidebar-area{
+    padding:0;
+}
+
+.sidebar-area .widget-area .wp-block-latest-posts__list li .wp-block-latest-posts__post-title{
+    text-decoration: none;
+    margin-bottom: 8px;
+    display: block;
+    transition:.4s;
+    font-weight:500;
+}
+
+.sidebar-area .widget-area .wp-block-latest-posts__list li .wp-block-latest-posts__post-title:hover{
+    margin-left:5px;
+}
+
+.wp-block-latest-posts__list{
+    margin-left:25px;
+}
+
+.sidebar-area .widget-area .wp-block-archives-list, .wp-block-categories-list{
+    list-style:none;
+    margin-left:6px;
+}
+
+.sidebar-area .widget-area .wp-block-archives-list li a, .wp-block-latest-comments__comment-meta a, .wp-block-categories-list li a{
+    text-decoration: none;
+    margin-bottom: 8px;
+    display: block;
+    font-weight:500;
+    transition:.4s;
+}
+
+.sidebar-area .widget-area .wp-block-archives-list li a:hover{
+    margin-left:5px
+}
+.sidebar-area .widget-area .wp-block-categories-list li a:hover{
+    margin-left:5px;
+}
+
+/*
+SINGLE POST PAGE
+*/
+
+.single-entry-meta{
+    width:100%;
+}
+
+.entry-header .single-entry-meta .posted-on{
+    width: 150px;
+    color:white;
+}
+
+.entry-header .single-entry-meta .byline{
+    width: 150px;
+    margin:0 10px;
+}
+
+.single-post .post-thumbnail img{
+    border-radius:6px;
+    margin-bottom:25px;
+}
+
+.single-post .entry-header, .author-box .entry-header, .category-box .entry-header, .archive-box .entry-header{
+    margin-top: 26px;
+    padding: 30px 0 28px 0px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 6px;
+}
+.single-post .entry-header{
+    padding-top:1px;
+}
+
+/* AUTHOR PAGE DESIGN */
+
+.author-box .entry-header{
+    padding:30px;
+}
+.author-box .entry-header img{
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    border: 2px solid #cfcfcf;
+    padding: 8px;
+    margin-bottom:20px;
+}
+
+.author-box .entry-header span{
+    margin-bottom:20px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.toggle-menu{
+    display:none;
+}
+

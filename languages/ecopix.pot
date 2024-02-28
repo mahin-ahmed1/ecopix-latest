@@ -1,0 +1,406 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecopix\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-30 07:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: ecopix"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ""
+
+#: inc/ecopix-customizer.php:117
+msgid "Active menu link color"
+msgstr ""
+
+#: functions.php:155 functions.php:167 functions.php:179 functions.php:191
+#: functions.php:203
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/ecopix-customizer.php:24
+msgid ""
+"Adjusts the spacing between the main content area and the header and footer."
+msgstr ""
+
+#: inc/ecopix-customizer.php:293
+msgid "All Headings [ h1 - h6 ]"
+msgstr ""
+
+#: archive.php:28
+msgid "Archives"
+msgstr ""
+
+#: inc/ecopix-customizer.php:365
+msgid "Base Font"
+msgstr ""
+
+#: inc/ecopix-customizer.php:265
+msgid "Base Text"
+msgstr ""
+
+#: index.php:26
+msgid "Blog"
+msgstr ""
+
+#: functions.php:153
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/ecopix-customizer.php:247
+msgid "Bottom"
+msgstr ""
+
+#: inc/ecopix-customizer.php:606
+msgid "Button"
+msgstr ""
+
+#: archive.php:26 category.php:25
+msgid "Category: "
+msgstr ""
+
+#: inc/ecopix-customizer.php:41 inc/ecopix-customizer.php:215
+msgid "Choose an option"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/ecopix-customizer.php:43
+msgid "Container"
+msgstr ""
+
+#: inc/ecopix-customizer.php:44
+msgid "Container Fluid"
+msgstr ""
+
+#: inc/ecopix-customizer.php:23
+msgid "Content Area Spacing"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-search.php:34 template-parts/content.php:34
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/ecopix-customizer.php:170
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/ecopix-customizer.php:179
+msgid "Copyright text separator color"
+msgstr ""
+
+#: inc/ecopix-customizer.php:204
+msgid "Disable"
+msgstr ""
+
+#. Name of the theme
+msgid "Ecopix"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Ecopix is a super fast and lightweight WordPress theme built with the latest "
+"web technologies. It was built with the Gutenberg editor in mind and has a "
+"lot of options that makes it extendable and customizable. You can easily "
+"create any type of website, such as business agency, shop, corporate, "
+"education, restaurant, blog, portfolio, landing page and so on. It works "
+"awesome with popular WordPress page builders.  Note:We strongly recommend "
+"you to update/switch to a modern browser."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:102 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/ecopix-customizer.php:203
+msgid "Enable"
+msgstr ""
+
+#: inc/ecopix-customizer.php:135
+msgid "Footer"
+msgstr ""
+
+#: inc/ecopix-customizer.php:143
+msgid "Footer Background"
+msgstr ""
+
+#: inc/ecopix-customizer.php:152
+msgid "Footer Base Text Color"
+msgstr ""
+
+#: inc/ecopix-customizer.php:161
+msgid "Footer Heading Color"
+msgstr ""
+
+#: functions.php:165
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:177
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:189
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/ecopix-customizer.php:256
+msgid "Global Colors"
+msgstr ""
+
+#: inc/ecopix-customizer.php:53
+msgid "Header"
+msgstr ""
+
+#: inc/ecopix-customizer.php:78
+msgid "Header Typography"
+msgstr ""
+
+#: inc/ecopix-customizer.php:302 inc/ecopix-customizer.php:400
+msgid "Heading 1 (H1)"
+msgstr ""
+
+#: inc/ecopix-customizer.php:311 inc/ecopix-customizer.php:435
+msgid "Heading 2 (H2)"
+msgstr ""
+
+#: inc/ecopix-customizer.php:320 inc/ecopix-customizer.php:469
+msgid "Heading 3 (H3)"
+msgstr ""
+
+#: inc/ecopix-customizer.php:329 inc/ecopix-customizer.php:503
+msgid "Heading 4 (H4)"
+msgstr ""
+
+#: inc/ecopix-customizer.php:339 inc/ecopix-customizer.php:537
+msgid "Heading 5 (H5)"
+msgstr ""
+
+#: inc/ecopix-customizer.php:348 inc/ecopix-customizer.php:572
+msgid "Heading 6 (H6)"
+msgstr ""
+
+#: inc/ecopix-customizer.php:126
+msgid "Hover menu link color"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://github.com/mahin-ahmed1"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mahin-ahmed1.github.io/ecopix/"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/ecopix-customizer.php:15
+msgid "Layout"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:85
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/ecopix-customizer.php:218
+msgid "Left"
+msgstr ""
+
+#: inc/ecopix-customizer.php:275
+msgid "Links"
+msgstr ""
+
+#: inc/ecopix-customizer.php:284
+msgid "Links Hover"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. Author of the theme
+msgid "Mahin Ahmed"
+msgstr ""
+
+#: inc/ecopix-customizer.php:62
+msgid "Menu Alignment"
+msgstr ""
+
+#: inc/ecopix-customizer.php:103
+msgid "Menu items spacing"
+msgstr ""
+
+#: inc/ecopix-customizer.php:242
+msgid "Mobile Sidebar Position"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#: single.php:26
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-search.php:47
+#: template-parts/content-single.php:51 template-parts/content.php:47
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:48
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:32
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:68
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:25
+msgid "Previous:"
+msgstr ""
+
+#: functions.php:80
+msgid "Primary"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/ecopix-customizer.php:217
+msgid "Right"
+msgstr ""
+
+#. %s: search query.
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/ecopix-customizer.php:38
+msgid "Select Entry Content Layout"
+msgstr ""
+
+#: inc/ecopix-customizer.php:212
+msgid "Select sidebar position"
+msgstr ""
+
+#: inc/ecopix-customizer.php:199
+msgid "Show or Hide sidebar by using this switch"
+msgstr ""
+
+#: inc/ecopix-customizer.php:189
+msgid "Sidebar"
+msgstr ""
+
+#: inc/ecopix-customizer.php:198
+msgid "Sidebar Show & Hide"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:75
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/ecopix-customizer.php:248
+msgid "Top"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/ecopix-customizer.php:357
+msgid "Typography"
+msgstr ""
+
+#: inc/ecopix-customizer.php:227
+msgid "Widget Vertical Spacing"
+msgstr ""

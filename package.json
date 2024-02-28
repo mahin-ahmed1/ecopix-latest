@@ -1,0 +1,11 @@
+{
+  "name": "ecopix",
+  "version": "1.0.6",
+  "description": " Ecopix is a super fast and lightweight WordPress theme built with the latest web technologies.",
+  "author": "Mahin Ahmed",
+  "license": "GPL-2.0-or-later",
+  "keywords": [
+    "WordPress",
+    "Theme" 
+  ]
+}
